@@ -22,7 +22,7 @@
 [參考1](https://github.com/jcat980007/ws112a/blob/master/HW3)
 [參考2](https://github.com/XaioYue/ws112a/blob/master/HW/H3)
 
-有看懂並進行修改(但app.js和參考一的完全一樣)
+有看懂並進行修改(但app.js和參考1的完全一樣)
 
 ## 04
 
